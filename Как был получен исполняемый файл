@@ -1,0 +1,4 @@
+Файл Executable получен с помощью библиотеки "Pyinstaller", позволяющей собрать код в исполняемый файл.
+Установка библиотеки: pip install pyinstaller
+Создание файла: pyinstaller --onefile elevators.py
+Файл лежит в созданной папке "dist" в папке с проектом.
